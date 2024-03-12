@@ -1,0 +1,42 @@
+[
+    {
+        "type": "card",
+        "month": "Dec",
+        "year": "2023",
+        "imageUrl": "/img/steve.jpg",
+        "description": "No amount of technology can convert a bad story into a good story.",
+        "imageUrl1": "/img/sam.jpg",
+        "description1": "Most people don't have original ideas. Here is how Sam Altman pushes..."
+    },
+    {
+        "type": "company",
+        "compIcon": "/icons/Logo round.svg",
+        "compName": "Duggup",
+        "city": "San Francisco Bay Area",
+        "month": "Nov",
+        "year": "2023",
+        "compHeading": "Co-Founder and CEO",
+        "jobType": "Full-time",
+        "jobMode": "Remote"
+    },
+    {
+        "type": "card",
+        "month": "Dec",
+        "year": "2023",
+        "imageUrl": "/img/desktop.jpg",
+        "description": "Startup Lesson I am reflecting. Don't build for the \"average person\".",
+        "imageUrl1": "/img/map.png",
+        "description1": "Your biggest regrets at 80 will be acts of omission."
+    },
+    {
+        "type": "company",
+        "compIcon": "/icons/BetterUp.svg",
+        "compName": "BetterUp",
+        "city": "San Francisco Bay Area",
+        "month": "Sep",
+        "year": "2022",
+        "compHeading": "VP Engineering",
+        "jobType": "Full-time",
+        "jobMode": ""
+    }
+]
